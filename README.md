@@ -1,6 +1,6 @@
 # Dockerized IMI Component Tools
 ## 概要
-経済産業省がMITライセンスで公開している(IMIコンポーネントツール)[https://info.gbiz.go.jp/tools/imi_tools/]を Docker Image として扱いやすくするためのリポジトリです。WebUI が実装されている各ツールについて、Docker Compose で簡単に起動できるようにしてあります。
+経済産業省がMITライセンスで公開している[IMIコンポーネントツール](https://info.gbiz.go.jp/tools/imi_tools/)を Docker Image として扱いやすくするためのリポジトリです。WebUI が実装されている各ツールについて、Docker Compose で簡単に起動できるようにしてあります。
 
 ## 詳細
 IMIコンポーネントツールのうち、WebUI が実装されている6つのツールについて、Dockerに載せています。具体的には、以下のコンポーネントを対象としています。
